@@ -35,4 +35,10 @@ When "Proto_CollectionConsolidate.R" is loaded you'll need to change the pathway
  ## Proto_Photo_Chonker
  ![A pretty Tiger](https://bigmemes.funnyjunk.com/pictures/C+h+o+n+k_3f0892_6814883.jpg)
 
-Using a prebuilt CSV, listing filenames and pathways, the chunking script allows you to break up large photo collections into manageable chunks for processing and provides chunked versions of the original CSV as well. 
+Using a prebuilt CSV, listing filenames and pathways, the  script allows you to break up large photo collections into manageable chunks for processing and provides chunked versions of the original CSV as well. 
+* The size of your photo chunk depends on ow many photos you believe is comfrotably accomplishable by you or a technician.   
+
+"Proto_CollectionConsolidate.R" includes script for creating a CSV of filenames and pathways for any sorted folder of photos. 
+
+Details on workflow are included in script. 
+GOOD LUCK
